@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **machine learning projects**
 
-- 📝 I regularly write articles on [https://rgbridger.blogspot.com/](https://rgbridger.blogspot.com/)
+- 📝 I regularly write articles on [https://rgbridger.blogspot.com/](https://rgbridger.blogspot.com/)  ![code](https://github.com/user-attachments/assets/f2a97778-c387-400b-ab7a-2687d58feefc)
 
 - 📫 How to reach me **rohithrc8464@gmail.com**
 
@@ -26,3 +26,4 @@
 
 
 ![mario](https://github.com/user-attachments/assets/2f6e0df7-d794-4b9a-a1c6-86ad3670e7f1)
+
