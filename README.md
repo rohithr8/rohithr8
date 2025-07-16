@@ -28,3 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohithr8&show_icons=true&locale=en" alt="rohithr8" /></p>
 
+
+![mario](https://github.com/user-attachments/assets/2f6e0df7-d794-4b9a-a1c6-86ad3670e7f1)
