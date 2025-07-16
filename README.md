@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithr8" alt="rohithr8" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rg_bridger" target="blank"><img src="https://img.shields.io/twitter/follow/rg_bridger?logo=twitter&style=for-the-badge" alt="rg_bridger" /></a> </p>
-
 - 🔭 I’m currently working on **machine learning projects**
 
 - 📝 I regularly write articles on [https://rgbridger.blogspot.com/](https://rgbridger.blogspot.com/)
@@ -29,5 +27,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohithr8&show_icons=true&locale=en&layout=compact" alt="rohithr8" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohithr8&show_icons=true&locale=en" alt="rohithr8" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohithr8&" alt="rohithr8" /></p>
